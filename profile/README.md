@@ -3,7 +3,9 @@
 🙋‍♀️ Telemt - modern MTProxy written in memory-safety Rust with Async-magics from Tokio!
 
 ## Repos
-Main - [telemt](https://github.com/telemt/telemt/)
+
+***Main*** - [telemt](https://github.com/telemt/telemt/)
+
 Documentation - [telemt-docs](https://github.com/telemt/telemt-docs)
 
 ## Docker Containers
