@@ -7,6 +7,7 @@
 ***Main*** - [telemt](https://github.com/telemt/telemt/)
 
 Documentation - [telemt-docs](https://github.com/telemt/telemt-docs)
+AES Diagnoser - [aesdiag](https://github.com/telemt/aesdiag)
 
 ## Docker Containers
 ### Unofficial
