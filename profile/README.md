@@ -4,9 +4,9 @@
 
 ## Repos
 
-***Main*** - [telemt](https://github.com/telemt/telemt/)
+***[Telemt](https://github.com/telemt/telemt/)*** - MTProxy for Telegram on Rust + Tokio
 
-***TDLib Obfuscated*** - [tdlib-obf](https://github.com/telemt/tdlib-obf) - our implementation of TDLib w/ traffic masking and DPI-circumvention improvements
+***[TDLib Obfuscated](https://github.com/telemt/tdlib-obf)*** - our implementation of TDLib w/ traffic masking and DPI-circumvention improvements
 
 ## Web UI and Control Panels
 ### Unofficial
