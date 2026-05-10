@@ -9,4 +9,4 @@
 ***[TDLib Obfuscated](https://github.com/telemt/tdlib-obf)*** - our implementation of TDLib w/ traffic masking and DPI-circumvention improvements
 
 ## Web UI and Control Panels
-- ***[Control Panel over API](https://github.com/amirotin/telemt_panel)***
+- ***[Control Panel over API by Amirotin](https://github.com/amirotin/telemt_panel)***
